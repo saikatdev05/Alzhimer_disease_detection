@@ -1,8 +1,5 @@
 //data set are from OASIS and ADNI.
-//clock drawing is a physical testing approach to detect alzheimer but due to very less amount of data ,accuracy of the model is very low.
-//Alzheimer detection and classification with MRI data accuray is very high using a good dataset.
-Alzheimer’s Disease Detection using Machine Learning
-This project leverages Machine Learning techniques to predict and classify Alzheimer’s Disease stages using MRI images. The aim is to assist early detection and diagnosis, enabling timely medical intervention.
+.
 
 🔍 Project Overview
 The project uses Convolutional Neural Networks (CNN) and Support Vector Machines (SVM) to classify MRI brain images into different Alzheimer’s Disease categories. By combining the power of deep learning for feature extraction with the precision of SVM classification, the model achieves high accuracy in distinguishing between stages of the disease.
